@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ASmallBean/ASmallBean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on Agora.io
 - 🌱 I’m currently learning go, kubernetes, helm
 - 👯 I’m looking to collaborate on best practices
@@ -20,3 +17,7 @@
 ### Coding Activity over Last 30 Days
 
 <img src="https://wakatime.com/share/@Claus/9fed9f97-eebb-4e2e-93f6-a4080cb2cacd.svg">
+
+
+<!--
+**ASmallBean/ASmallBean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
